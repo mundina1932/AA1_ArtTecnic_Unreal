@@ -1,0 +1,7 @@
+AA1_Unreal: Elisa Soler i Laura Martínez
+AA1_Unity: Elisa Soler i Laura Martínez
+
+Links als Gits: (per si no has rebut bé els repositoris)
+
+Unreal: https://github.com/mundina1932/AA1_ArtTecnic_Unreal.git
+Unity: https://github.com/mundina1932/AA1_ArtTecnic_Unity.git
